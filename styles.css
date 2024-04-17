@@ -1,0 +1,14 @@
+body {
+    background: url('path_to_your_image') fixed;
+    background-size: cover;
+    animation: slide 30s linear infinite;
+  }
+
+  
+  .centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
